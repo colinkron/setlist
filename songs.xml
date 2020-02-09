@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="cssforsongs.css"?>
+
+<!DOCTYPE SETLIST>
+  <SETLIST>
+    <SONG>
+      <TITLE> Why Georgia </TITLE>
+      <ARTIST> John Mayer </ARTIST>
+      <GENRE> Acoustic Rock/Pop </GENRE>
+      <RELEASEDATE> 2001 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> Alaska </TITLE>
+      <ARTIST> Maggie Rogers </ARTIST>
+      <GENRE> Pop-Folk </GENRE>
+      <RELEASEDATE> 2016 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> Someday </TITLE>
+      <ARTIST> The Strokes </ARTIST>
+      <GENRE> Indie Rock </GENRE>
+      <RELEASEDATE> 2001 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> Doing It </TITLE>
+      <ARTIST> Charli XCX (ft. Rita Ora) </ARTIST>
+      <GENRE> Pop </GENRE>
+      <RELEASEDATE> 2014 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> Take A Chance On Me </TITLE>
+      <ARTIST> ABBA </ARTIST>
+      <GENRE> Swedish Pop </GENRE>
+      <RELEASEDATE> 1977 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> You Da One </TITLE>
+      <ARTIST> Rihanna </ARTIST>
+      <GENRE> Pop/RnB </GENRE>
+      <RELEASEDATE> 2011 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> Love On Top </TITLE>
+      <ARTIST> Beyoncé </ARTIST>
+      <GENRE> RnB </GENRE>
+      <RELEASEDATE> 2011 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> On the Sea </TITLE>
+      <ARTIST> Beach House </ARTIST>
+      <GENRE> Bedroom Pop </GENRE>
+      <RELEASEDATE> 2012 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> Harvest Moon </TITLE>
+      <ARTIST> Neil Young </ARTIST>
+      <GENRE> Gentle Folk </GENRE>
+      <RELEASEDATE> 1992 </RELEASEDATE>
+    </SONG>
+
+    <SONG>
+      <TITLE> I Don't Want To Set The World On Fire </TITLE>
+      <ARTIST> The Ink Spots </ARTIST>
+      <GENRE> Vocal Jazz </GENRE>
+      <RELEASEDATE> 1941 </RELEASEDATE>
+    </SONG>
+
+  </SETLIST>
